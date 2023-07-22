@@ -1,4 +1,4 @@
-# manageuser
+# manageuser (flutter + firebase)
 
 A new Flutter project.
 
